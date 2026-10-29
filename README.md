@@ -37,6 +37,12 @@ http://13.206.143.59:8081
 
 The application runs inside a Docker container using Nginx and is accessible on port 8081.
 
+## Application Output
+
+The application was successfully deployed
+on AWS EC2 using Docker and Nginx.
+
+![Application Output](deployment-screenshot.png)
 
 ## Author
 Hrushik 
