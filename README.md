@@ -30,7 +30,7 @@ http://localhost:8081
 ## AWS Deployment
 The application is intended to be publicly accessible at:
 
-http://YOUR_PUBLIC_IP:8081
+http://13.234.226.118:8081
 
 Replace YOUR_PUBLIC_IP with your EC2 instance's public IPv4 address.
 
