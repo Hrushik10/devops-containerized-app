@@ -42,7 +42,7 @@ The application runs inside a Docker container using Nginx and is accessible on 
 The application was successfully deployed
 on AWS EC2 using Docker and Nginx.
 
-deployment-screenshot.png.png
+![Application Output](deployment-screenshot.png.png)
 
 ## Author
 Hrushik 
