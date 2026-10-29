@@ -37,5 +37,6 @@ http://13.206.143.59:8081
 
 The application runs inside a Docker container using Nginx and is accessible on port 8081.
 
+
 ## Author
 Hrushik 
