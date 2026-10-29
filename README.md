@@ -33,7 +33,7 @@ http://localhost:8081
 
 The application is deployed on an AWS EC2 instance and is publicly accessible at:
 
-http://13.234.226.118:8081
+http://13.206.143.59:8081
 
 The application runs inside a Docker container using Nginx and is accessible on port 8081.
 
