@@ -31,13 +31,11 @@ http://localhost:8081
 
 ## AWS Deployment
 
-http://YOUR_PUBLIC_IP:8081
-
-Replace YOUR_PUBLIC_IP with your EC2 instance's public IPv4 address
-
-The deployed application is publicly accessible at:
+The application is deployed on an AWS EC2 instance and is publicly accessible at:
 
 http://13.234.226.118:8081
+
+The application runs inside a Docker container using Nginx and is accessible on port 8081.
 
 ## Author
 Hrushik 
